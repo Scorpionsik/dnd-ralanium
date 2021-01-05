@@ -2,12 +2,12 @@
 <FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
  <description>
   <title-info>
-   <genre>sf_fantasy</genre>
+   <genre>sf_cyberpunk</genre>
    <author>
     <first-name></first-name>
     <last-name></last-name>
    </author>
-   <book-title>Питомцы персонажей</book-title>
+   <book-title></book-title>
    <annotation>
     <p>Введите сюда краткую аннотацию</p>
    </annotation>
@@ -21,7 +21,7 @@
    </author>
    <program-used>FictionBook Editor Release 2.6.7</program-used>
    <date value="2014-11-10">10 November 2014</date>
-   <id>1376E301-B938-4226-8B2C-02121DE69DAE</id>
+   <id>EBE1FBA0-451F-47C7-8716-98C9494A4FD8</id>
    <version>1.0</version>
    <history>
     <p>1.0 — создание файла</p>
@@ -30,8 +30,792 @@
  </description>
  <body>
   <section>
-   <p>Чтобы изменить документ по умолчанию, отредактируйте файл "blank.fb2" вручную.</p>
-   <empty-line/>
+   <title>
+    <p>Добрые</p>
+   </title>
+   <section>
+    <title>
+     <p>Рала</p>
+    </title>
+    <p>Богиня Добра.</p>
+    <p><strong>Символ:</strong> Белый круг, символизирующий солнце, внутри круга пятиконечная звезда.</p>
+    <p><strong>Мировоззрение:</strong> Нейтрально-добрая</p>
+    <p><strong>Любимое оружие:</strong> Копьё</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, гномы, дварфы, хоббиты</p>
+    <p><strong>Одобренные домены:</strong> Добро, Защита, Солнце, Лечения</p>
+    <p><strong>Запрещенные домены:</strong> Зло, Хаос, Разрушение, Обман</p>
+   </section>
+   <section>
+    <title>
+     <p>Эделина</p>
+    </title>
+    <p>Богиня матерей, любви и домашнего очага</p>
+    <p><strong>Символ:</strong> Куколка ребёнка</p>
+    <p><strong>Мировоззрение:</strong> Нейтрально доброе</p>
+    <p><strong>Любимое оружие:</strong> Щит</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, хоббиты</p>
+    <p><strong>Одобренные домены:</strong> Земля, Защита, Растение</p>
+    <p><strong>Запрещенные домены: </strong>Воздух, Война, Путешествие, Смерть</p>
+   </section>
+   <section>
+    <title>
+     <p>Вантлиан</p>
+    </title>
+    <p>Бог возлюбленных, красоты, страсти</p>
+    <p><strong>Символ:</strong> Роза в огне</p>
+    <p><strong>Мировоззрение:</strong> Хаотично добрый</p>
+    <p><strong>Любимое оружие:</strong> Рапира</p>
+    <p><strong>Поклоняются:</strong> люди, гномы, хоббиты</p>
+    <p><strong>Одобренные домены:</strong> Огонь, Удача, Магия, Обман </p>
+    <p><strong>Запрещенные домены:</strong> Вода, Знание, Растение, Закон</p>
+   </section>
+   <section>
+    <title>
+     <p>Шая</p>
+    </title>
+    <p>Богиня весны, рассвета, рождения</p>
+    <p><strong>Символ:</strong> Цветущая яблоня</p>
+    <p><strong>Мировоззрение:</strong> Законно добрая</p>
+    <p><strong>Любимое оружие:</strong> Серп</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, гномы, полурослики</p>
+    <p><strong>Одобренные домены:</strong> Вода, Земля, Животные, Растения, Лечение</p>
+    <p><strong>Запрещенные домены: </strong>Хаос, Смерть, Магия, Сила</p>
+   </section>
+   <section>
+    <title>
+     <p>Айворн</p>
+    </title>
+    <p>Бог лета, сельского хозяйства, фермеров</p>
+    <p><strong>Символ:</strong> Блюдо с яблоками</p>
+    <p><strong>Мировоззрение:</strong> Хаотично добрый</p>
+    <p><strong>Любимое оружие:</strong> Короткий лук</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, гномы, полурослики, орки</p>
+    <p><strong>Одобренные домены:</strong> Воздух, Огонь, Солнце</p>
+    <p><strong>Запрещенные домены: </strong>Закон, Зло, Защита</p>
+   </section>
+   <section>
+    <title>
+     <p>Долван</p>
+    </title>
+    <p>Бог красноречия и торговли</p>
+    <p><strong>Символ:</strong> Мешочек зерна</p>
+    <p><strong>Мировоззрение:</strong> Нейтрально доброе</p>
+    <p><strong>Любимое оружие:</strong> Дубинка</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, дварфы, хоббиты</p>
+    <p><strong>Одобренные домены:</strong> Знание, Удача, Путешествие</p>
+    <p><strong>Запрещенные домены: </strong>Сила, Лечение</p>
+   </section>
+   <section>
+    <title>
+     <p>Матарэ</p>
+    </title>
+    <p>Бог юности и физической силы</p>
+    <p><strong>Символ:</strong> Сломанная цепь</p>
+    <p><strong>Мировоззрение:</strong> Хаотично доброе</p>
+    <p><strong>Любимое оружие:</strong> Булава</p>
+    <p><strong>Поклоняются:</strong> люди, гномы, дварфы, хоббиты, орки</p>
+    <p><strong>Одобренные домены:</strong> Удача, Сила</p>
+    <p><strong>Запрещенные домены: </strong>Смерть, Знание, Магия</p>
+   </section>
+   <section>
+    <title>
+     <p>Нотриан</p>
+    </title>
+    <p>Бог науки, поэзии, искусства</p>
+    <p><strong>Символ:</strong> Филин в полете</p>
+    <p><strong>Мировоззрение:</strong> Нейтрально доброе</p>
+    <p><strong>Любимое оружие:</strong> Посох</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, гномы</p>
+    <p><strong>Одобренные домены:</strong> Знание, Магия, Защита, Путешествие</p>
+    <p><strong>Запрещенные домены: </strong>Животные, Растения, Хаос</p>
+   </section>
+   <section>
+    <title>
+     <p>Стелла</p>
+    </title>
+    <p>Богиня жизни, утренней звезды</p>
+    <p><strong>Символ:</strong> Солнце, рассвет</p>
+    <p><strong>Мировоззрение:</strong> Нейтрально доброе</p>
+    <p><strong>Любимое оружие:</strong> Длинный меч</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, хоббиты</p>
+    <p><strong>Одобренные домены:</strong> Добро, Лечение, Вода</p>
+    <p><strong>Запрещенные домены: </strong>Зло, Смерть, Огонь</p>
+   </section>
+   <section>
+    <title>
+     <p>Аннет</p>
+    </title>
+    <p>Богиня вдохновения, цветов, бардов</p>
+    <p><strong>Символ:</strong> Губная гармоника, фиалка</p>
+    <p><strong>Мировоззрение:</strong> Нейтрально доброе</p>
+    <p><strong>Любимое оружие:</strong> Короткий лук</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, гномы, дварфы, хоббиты</p>
+    <p><strong>Одобренные домены:</strong> Воздух, Огонь, Знание, Магия, Путешествие</p>
+    <p><strong>Запрещенные домены: </strong>Разрушение, Закон</p>
+   </section>
+   <section>
+    <title>
+     <p>Шандри</p>
+    </title>
+    <p>Бог счастья, веселья, удовольствия, свободы</p>
+    <p><strong>Символ:</strong> Кубок с вином</p>
+    <p><strong>Мировоззрение:</strong> Хаотично доброе</p>
+    <p><strong>Любимое оружие:</strong> Праща</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, хоббиты</p>
+    <p><strong>Одобренные домены:</strong> Удача, Растение, Путешествие</p>
+    <p><strong>Запрещенные домены: </strong>Лечение, Знание, Магия</p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>Злые</p>
+   </title>
+   <section>
+    <title>
+     <p>Ниум</p>
+    </title>
+    <p>Бог Зла</p>
+    <p><strong>Символ:</strong> Чёрный круг, символизирующий новолуние, внутри круга перевернутая пятиконечная звезда</p>
+    <p><strong>Мировоззрение:</strong> Нейтрально злой</p>
+    <p><strong>Любимое оружие:</strong> Моргенштерн</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, гномы, двафры, орки</p>
+    <p><strong>Одобренные домены:</strong>  Зло, Хаос, Разрушение, Обман </p>
+    <p><strong>Запрещенные домены: </strong>Добро, Защита, Солнце, Лечения</p>
+   </section>
+   <section>
+    <title>
+     <p>Зорис</p>
+    </title>
+    <p>Богиня убийства, лжи, обмана, ассасинов</p>
+    <p><strong>Символ:</strong> Глаз с вертикальным зрачком, зрачок закрыт кинжалом</p>
+    <p><strong>Мировоззрение:</strong> Законно злое</p>
+    <p><strong>Любимое оружие:</strong> Кинжал</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, гномы, хоббиты</p>
+    <p><strong>Одобренные домены:</strong> Смерть, Удача, Магия, Обман</p>
+    <p><strong>Запрещенные домены: </strong>Добро<strong>, </strong>Лечение, Солнце</p>
+   </section>
+   <section>
+    <title>
+     <p>Тилмарра</p>
+    </title>
+    <p>Богиня ночи, тьмы, потерь, забвения, секретов</p>
+    <p><strong>Символ:</strong> Чёрный кот</p>
+    <p><strong>Мировоззрение:</strong> Нейтрально злое</p>
+    <p><strong>Любимое оружие:</strong> Серп</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, хоббиты</p>
+    <p><strong>Одобренные домены:</strong> Магия, Обман, Вода, Воздух</p>
+    <p><strong>Запрещенные домены: </strong>Знание, Удача, Солнце</p>
+   </section>
+   <section>
+    <title>
+     <p>Аззак</p>
+    </title>
+    <p>Бог смерти, упокоения</p>
+    <p><strong>Символ:</strong> Череп с перевязанными глазами</p>
+    <p><strong>Мировоззрение:</strong> Законно злое</p>
+    <p><strong>Любимое оружие:</strong> Боевой молот</p>
+    <p><strong>Поклоняются:</strong> люди, эльфы, гномы, двафры, орки</p>
+    <p><strong>Одобренные домены:</strong> Смерть, Земля</p>
+    <p><strong>Запрещенные домены: </strong>Воздух, Путешествие, Солнце</p>
+   </section>
+   <section>
+    <title>
+     <p>Умберо</p>
+    </title>
+    <p>Богиня боли, агонии, пыток, безумия</p>
+    <p><strong>Символ:</strong> Окровавленный хлыст</p>
+    <p><strong>Мировоззрение:</strong> Хаотично злое</p>
+    <p><strong>Любимое оружие:</strong> Хлыст</p>
+    <p><strong>Поклоняются:</strong> люди, орки</p>
+    <p><strong>Одобренные домены:</strong> Хаос, Разрушение, Огонь</p>
+    <p><strong>Запрещенные домены:</strong> Лечение, Закон, Вода</p>
+   </section>
+   <section>
+    <title>
+     <p>Умар</p>
+    </title>
+    <p>Бог неудач, несчастных случаев</p>
+    <p><strong>Символ:</strong> Петля</p>
+    <p><strong>Мировоззрение:</strong> Хаотично злое</p>
+    <p><strong>Любимое оружие:</strong> Посох</p>
+    <p><strong>Поклоняются:</strong> люди</p>
+    <p><strong>Одобренные домены:</strong> Хаос, Огонь, Удача</p>
+    <p><strong>Запрещенные домены: </strong>Защита, Смерть</p>
+   </section>
+   <section>
+    <title>
+     <p>Кордук</p>
+    </title>
+    <p>Бог войны, солдат</p>
+    <p><strong>Символ:</strong> Рогатый шлем</p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Охота, жажда крови, ликантропов</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Зима, холод, вечность</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Мрак, Раздора, интриг</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Тень, Кража, воров</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Шторм, разрушение</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Болезней, разложения</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Месть, Ядов, змей</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>Нейтральные</p>
+   </title>
+   <section>
+    <title>
+     <p>Закон, Долг, справедливость, правосудие, паладинов</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Сон, Вечерней звезды</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Выносливость, страдания, упорство</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Стражей, защитников, целителей</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Плодородие, полей</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Богатство, деньги, торговля</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Воды, рек, чистоты</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Осени, лесов, лесных существ, дриад, следопытов</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Дикой природы, Зверей, друидов</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Морская стихия, волны, морской ветер</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Кузнечное дело, ремесла</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Свет, Изобретения, конструирования</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Врачевание</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Горы, шахтеров, дварфов, гномов</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Болот, топей, лизардфолков</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Солнце, озарение, тепло</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Луна, звезды, навигация</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Лунный свет, магия, колдовство</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Глифов, письмен, художников</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Дорога, путешествие, порталы</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Земля, твердость, постоянство</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Небо</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Северного ветра</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Южного ветра</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Восточный ветер</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Западный ветер</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Судьба, случай</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Лошадей, пастухов, полей</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Мир, тихое место, водопады</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>Драконы</p>
+   </title>
+   <section>
+    <title>
+     <p>Хаос</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Гром и молнии</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Огонь, ярость</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Лед</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Время</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Власть</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Воздух, движение</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Иллюзий, равновесия</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Магия, мудрость, маги и другие заклинатели</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
+   <section>
+    <title>
+     <p>Удача, победа, авантюры</p>
+    </title>
+    <empty-line/>
+    <p><strong>Символ:</strong> </p>
+    <p><strong>Мировоззрение:</strong> </p>
+    <p><strong>Любимое оружие:</strong> </p>
+    <p><strong>Поклоняются:</strong> </p>
+    <p><strong>Одобренные домены:</strong> </p>
+    <p><strong>Запрещенные домены:</strong></p>
+   </section>
   </section>
  </body>
 </FictionBook>
